@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vuzz-local.github.io/sunny-carpet-cleanin-10e33/sitemap.xml
+Sitemap: https://sunny-carpet-cleanin-10e33.pages.dev/sitemap.xml
